@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5.via</div>
+                <div class="title">Laravel 5.IO <br> VIA</div>
             </div>
         </div>
     </body>
